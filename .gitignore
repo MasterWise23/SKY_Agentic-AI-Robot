@@ -20,3 +20,4 @@ __pycache__/
 Thumbs.db
 .idea/
 COD_OCHI_ESP32/
+vosk-model-small-en-us-0.15/
