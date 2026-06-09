@@ -1,8 +1,22 @@
-.idea/
+# Virtual environment
 .venv/
-__pycache__/
-*.pt
+
+# Vosk model binaries
 vosk-model-small-en-us-0.15/am/
-vosk-model-small-en-us-0.15/conf/
 vosk-model-small-en-us-0.15/graph/
 vosk-model-small-en-us-0.15/ivector/
+vosk-model-small-en-us-0.15/conf/
+
+# YOLOv8 models
+*.pt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
+.idea/
+COD_OCHI_ESP32/
