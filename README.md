@@ -6,10 +6,12 @@ SKY is an agentic AI system designed for non-invasive patient monitoring and ass
 
 ---
 
-## Demo
+## Demo & CAD
 
 > 📹 SKY combines local multimodal inference (Llama 3.2, YOLOv8, DeepFace, Vosk) running on a Flask backend with distributed microcontrollers (Arduino Mega for Mecanum wheel mobility and ESP32 boards for dynamic emotion-driven eye displays).
-
+<p align="center">
+  <img src="assets/CAD_SKY.jpg" width="450" alt="SKY CAD version">
+</p>
 
 ---
 
