@@ -31,6 +31,14 @@ The system is composed of four interconnected layers:
 
 **Robot hardware** — the physical layer. An Arduino Mega controls motors and servos via Bluetooth. Two ESP32 modules drive animated eye displays that react in real time to patient emotions detected by the server.
 
+## 💬 Conversational Pipeline Architecture
+
+<p align="center">
+  <img src="assets/docs/Conversational_pipeline.png" width="850" alt="Conversational Pipeline">
+  <br>
+  <em>Figure: End-to-end speech processing and response loop from the tablet to the Flask server and local LLM.</em>
+</p>
+
 ### Communication
 
 | Link | Protocol | Direction |
