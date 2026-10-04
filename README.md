@@ -8,13 +8,12 @@ SKY is an agentic AI system designed for non-invasive patient monitoring and ass
 
 ## Demo
 
-> 📹 *Demo video coming soon*
+> 📹 SKY combines local multimodal inference (Llama 3.2, YOLOv8, DeepFace, Vosk) running on a Flask backend with distributed microcontrollers (Arduino Mega for Mecanum wheel mobility and ESP32 boards for dynamic emotion-driven eye displays).
+
 
 ---
 
 ## System Architecture
-
-> 🖼️ *Architecture diagram coming soon — see `docs/architecture.svg`*
 
 The system is composed of four interconnected layers:
 
@@ -127,6 +126,12 @@ Flash each `.ino` file in the `arduino/` folder to the corresponding board using
 | `/status` | GET | Health check |
 | `/talk` | POST | Send audio, receive LLM response |
 | `/emergency` | POST | Trigger emergency alert |
+
+---
+
+## 📚 Academic Validation & Documentation
+Official documentation verifying the architecture and implementation of the SKY Agentic AI Robot:
+- **[Bachelor Thesis / Licență (PDF)](SKY_final_v6_corectat.pdf)** 
 
 ---
 
