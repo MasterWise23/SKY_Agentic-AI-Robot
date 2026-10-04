@@ -137,7 +137,7 @@ Flash each `.ino` file in the `arduino/` folder to the corresponding board using
 
 ## 📚 Academic Validation & Documentation
 Official documentation verifying the architecture and implementation of the SKY Agentic AI Robot:
-- **[Bachelor Thesis / Licență (PDF)](SKY_final_v6_corectat.pdf)** 
+- **[Bachelor Thesis / Licență (PDF)](assets/docs/SKY_final_v6_corectat.pdf)**
 
 ---
 
