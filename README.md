@@ -32,7 +32,7 @@ The system is composed of four interconnected layers:
 **Robot hardware** — the physical layer. An Arduino Mega controls motors and servos via Bluetooth. Two ESP32 modules drive animated eye displays that react in real time to patient emotions detected by the server.
 
 <p align="center">
-  <img src="assets/docs/ Communication architecture for the practical part.png" width="850" alt="Communication Architecture">
+  <img src="assets/docs/Communication architecture for the practical part.png" width="850" alt="Communication Architecture">
   <br>
   <em>Figure:  Communication architecture for the practical part. </em>
 </p>
