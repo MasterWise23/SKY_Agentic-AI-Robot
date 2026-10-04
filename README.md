@@ -12,7 +12,7 @@ SKY is an agentic AI system designed for non-invasive patient monitoring and ass
 <p align="center">
   <img src="assets/docs/CAD_SKY.png" width="450" alt="CAD Model SKY">
 </p>
----
+
 
 ## System Architecture
 
